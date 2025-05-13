@@ -1,0 +1,1288 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height:100%;
+    width:100%;
+}
+.main{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/9d70212c6e1b32e0d2ee1ac37274f6d2.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;  
+}
+.main2{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/pexels-photo-6252744.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+}
+.main3{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/bgblack.avif);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+}
+.bharwa{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/bhindi.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.shahi{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/pneer.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.gobhi{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/gobhi.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+
+.rajma{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/rajmabg.webp);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.chhole{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/chholebg.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+}
+.vangi{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/vangibg.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.unda{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/undabg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.mutton{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/muttonbg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.fish{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/fishbg.avif);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.biryani{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/biryanibg.webp);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.handi{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/handi.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.sambar{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/Sambar-Vadabg.webp);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.bhaji{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/paobg.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.appae{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/appebg.avif);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.idli{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/idlibg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.dosa{
+    
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/dosabg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+    
+}
+.dhokla{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/dhoklabg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.basundi{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/Basundibg.webp);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.rasgulla{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/rasgulla.webp);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.balushahi{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/balushahibg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.Motichur{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/motichurbg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.gulab{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/gulabbg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+
+}
+.Puran{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/puranbg.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.manchurian{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/manchurianbg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.rice{
+
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/ricebg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.pasta{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/pastabg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.momos{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/momosbg.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+}
+.noodles{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/noodles.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+
+}
+.contact{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/nature.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+
+}
+.vegmain{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/dinner.jpeg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;  
+}
+.vegcard{
+    width:100%;
+    background-color: rgba(0, 0, 0, 0.523);
+    overflow:auto;
+    border-top: 2px solid white;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+    padding-top:20px;
+
+    position: relative;
+    animation-duration:1.8s;
+    animation-name: rani;
+    
+  
+}
+.gallery{
+    height:100%;
+    width:100%;
+    background-image:url(assets/images/gallery.webp);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-start;
+    align-items: center;
+    overflow: auto;
+
+
+}
+.gallerycard{
+    width:100%;
+    padding:20px;
+    background-color: rgba(0, 0, 0, 0.751);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    overflow: auto;
+    border-top:3px solid white;
+
+    position: relative;
+    animation-duration:1.8s;
+    animation-name: rani;
+
+}
+.galleryimg{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+
+
+.boxgallery{
+    width:45%;
+  
+    margin-bottom:25px;
+}
+
+.boxgallery1{
+    width:45%;
+    margin-bottom:25px;
+   
+}
+
+h1{
+    color:rgb(235, 235, 73);
+    font-family: Papyrus, fantasy;
+    border-bottom: 2px solid orangered;
+}
+
+.recipecard{
+
+    width:100%;
+    padding:20px;
+    background-color: rgba(0, 0, 0, 0.751);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    overflow: auto;
+    border-top:3px solid white;
+
+    position: relative;
+    animation-duration:1.8s;
+    animation-name: rani;
+
+}
+.contactfile{
+    
+    width:100%;
+    padding:20px;
+    background-color: rgba(0, 0, 0, 0.751);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    overflow: auto;
+    border-top:3px solid white;
+
+    position: relative;
+    animation-duration:1.8s;
+    animation-name: rani;
+
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom:25px;
+
+}
+
+.foodcard{
+    text-align: center;
+    margin-bottom:70px;
+   
+   
+}
+.foodimg{
+    border-radius:50%;
+}
+.foodpara{
+    font-family: "Lucida Handwriting";
+}
+.navbar{
+    width: 100%;
+    background-color:  rgba(0, 0, 0, 0.523);
+    
+}
+ul{
+    padding:10px;
+    list-style: none;
+}
+
+li{
+    padding:20px;
+     display: flex;
+    justify-content:flex-start;
+    align-items: center;
+  
+
+}
+.list2{
+   
+    padding:23px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+a{
+    text-decoration: none;
+    font-family: Harrington;
+    font-weight: bolder;
+    color:white !important;
+    font-size: larger;
+}
+.my-icon{
+    color:rgb(12, 237, 253);
+    margin-right: 15px;
+    font-size: 20px;
+}
+li:hover{
+    border-bottom:1px solid white;
+    width:150px;
+    border-radius:10px;
+    background-color:black;
+    cursor: pointer;
+    
+}
+.list2:hover{
+
+     border-bottom:1px solid white;
+    width:200px;
+    border-radius:10px;
+    background-color:black;
+    cursor: pointer;
+
+}
+
+.cont{
+    padding:20px;
+    border-top:3px solid white;
+    background-color:  rgba(0, 0, 0, 0.523);
+    position: relative;
+    animation-duration:1.8s;
+    animation-name: rani;
+    overflow: auto;
+}
+.para{
+    color:white;
+    font-family: Papyrus, fantasy;
+   
+    font-size:25px;
+    text-align: center;
+}
+
+.paragraph{
+    color:white;
+    font-family: Papyrus, fantasy;
+    text-align: justify;
+    font-size:25px;
+
+}
+.bb{
+    padding:23px;
+}
+
+.abt{
+    margin-top:10px;
+    color:yellow;
+    font-family: Harrington;
+    font-size:30px;
+}
+.hrt{
+    color:rgb(236, 4, 4);
+    font-size:30px;
+  
+}
+.content{
+
+    margin-top:70px;
+    width:300px;
+    border:1px wolid white;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+    position:relative;
+}
+.anim{
+    padding:15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(174, 174, 15, 0.55);
+    border-radius: 15px;
+
+    animation-duration:1.8s;
+    animation-name: rani;
+    position: absolute;
+    top:0;
+    
+
+}
+
+h3{
+    color:white;
+    /* font-size: larger; */
+    font-family: "Lucida Handwriting";
+}
+h2{
+    color:black;
+    font-family: Papyrus, fantasy;
+    font-size:28px;
+    
+ 
+ 
+}
+.sml{
+   margin-right: 15px;
+}
+@keyframes rani{
+    from{
+        top:-500px;
+        opacity: 0.1;
+    }
+    to{
+        top:0px;
+        opacity:1;
+      
+       
+    }
+   
+}
+
+@media (min-width:768px){
+li{
+    padding:20px;
+    margin-right:20px !important;
+
+}
+.list2{
+     padding:33px;
+
+}
+
+a{
+    font-size:35px;
+}
+.photo{
+    width:170px;
+}
+.navbar-toggler{
+    width:100px;
+    height:70px;
+}
+
+li:hover{
+   
+    width:210px;
+    
+}
+.list2:hover{
+    width:355px;
+}
+
+.content{
+    width:500px;
+  
+}
+h3{
+    font-size:45px !important;
+
+}
+h2{
+    font-size:55px !important;
+}
+.abt{
+    font-size:65px;
+}
+.para{
+    font-size: 50px;
+}
+h1{
+    
+    font-size:65px !important;
+}
+
+.foodimg{
+    width:250px;
+    margin-bottom:20px !important;
+}
+.foodcard{
+    
+    margin-bottom:90px;
+
+}
+
+
+.hrt{
+   
+    font-size:60px;
+  
+}
+.paragraph{
+
+      font-size:45px;
+
+}
+.map1{
+    width:500px !important;
+    height:300px;
+}
+.box{
+    margin-bottom:80px;
+}
+
+.boxgallery{
+    width:48%;
+    margin-bottom:25px;
+}
+
+.boxgallery1{
+    width:48%;
+    margin-bottom:35px;
+  
+}
+.my-icon{
+    font-size:30px;
+    margin-right:20px;
+}
+}
+
+@media (min-width:1024px){
+
+    li{
+    padding:30px;
+
+}
+.photo{
+    width:100px;
+}
+.my-icon{
+    
+    margin-right:10px;
+}
+.content{
+    width:600px;
+  
+}
+
+.boxgallery{
+    width:30%;
+    margin-bottom:25px;
+}
+
+.boxgallery1{
+    width:30%;
+    margin-bottom:35px;
+  
+}
+h1{
+    
+    font-size:60px !important;
+}
+.para{
+    font-size:45px;
+}
+.bhenda{
+    width:310px;
+}
+.chese{
+    width:297px;
+}
+.mslgb{
+    width:300px;
+}
+.rjm{
+    width:300px;
+
+}
+.mslcl{
+    width:350px;
+}
+.brlvg{
+    width:300px;
+}
+.brn{
+    width:300px;
+
+}
+.cknhd{
+    width:300px;
+
+}
+.mtntdr{
+    width:300px;
+    height:300px;
+}
+
+.fsfr{
+    width:315px;
+
+}
+.chknlp{
+     width:300px;
+     height:265px;
+
+}
+.undcr{
+    width:340px;
+     height:265px;
+
+}
+.glbjmn{
+    width:295px;
+
+}
+.prnpl{
+    width:300px;
+}
+.mtchr{
+    width:300px;
+
+}
+.rsgl{
+    width:300px;
+
+}
+.blsh{
+    width:400px;
+}
+.bsnd{
+    width:300px;
+}
+.idl{
+    width:300px;
+}
+.ds{
+    width:300px;
+}
+.dhkl{
+    width:300px;
+
+}
+.ap{
+    width:300px;
+
+}
+.smbrvd{
+    width:300px;
+}
+.pobj{
+    width:300px;
+
+}
+.ndl{
+    width:300px;
+
+}
+.mncr{
+    width:300px;
+
+
+}
+.mnrc{
+     width:400px;
+     
+
+}
+.stm{
+     width:300px;
+     height:300px;
+
+}
+.frmm{
+    width:300px;
+
+}
+.pst{
+    width:300px;
+
+}
+
+
+
+
+.main{
+
+    background-image:url(assets/images/mainbg.avif) !important;
+    background-size: cover;  
+}
+.main2{
+    background-image:url(assets/images/mainbg2.avif) !important;
+    background-size: cover;
+
+}
+.main3{
+
+    background-image:url(assets/images/recipebg2.avif) !important;
+    background-size: cover;
+
+}
+.bharwa{
+    
+    background-image:url(assets/images/bhindibg.jpg)!important;
+    background-size: cover;
+
+}
+.shahi{
+
+    background-image:url(assets/images/paneerbg.webp)!important;
+    background-size: cover;
+
+
+}
+.gobhi{
+
+    background-image:url(assets/images/gobhibg.jpg) !important;
+    background-size: cover;
+    
+}
+
+.rajma{
+    background-image:url(assets/images/rajmabgbig.jpg) !important;
+    background-size: cover;
+
+}
+.chhole{
+
+    background-image:url(assets/images/masalacholebg.avif) !important;
+    background-size: cover;
+
+}
+
+.unda{
+
+    background-image:url(assets/images/undacurrybg.webp) !important;
+    background-size: cover;
+
+}
+
+.fish{
+    background-image:url(assets/images/fishfrybg.avif) !important;
+    background-size: cover;
+}
+.biryani{
+
+    background-image:url(assets/images/biryanibigbg.webp) !important;
+    background-size: cover;
+}
+.handi{
+    background-image:url(assets/images/chickenhandibg.jpg) !important;
+    background-size: cover;
+
+}
+.sambar{
+    background-image:url(assets/images/wadabg.jpg) !important;
+    background-size: cover;
+}
+.bhaji{
+    background-image:url(assets/images/paobhajibg.avif) !important;
+    background-size: cover;
+}
+.appae{
+
+    background-image:url(assets/images/appebigbg.webp) !important;
+    background-size: cover;
+}
+.idli{
+    background-image:url(assets/images/idlibgbig.webp) !important;
+    background-size: cover;
+   
+}
+.dosa{
+    background-image:url(assets/images/dosabigbg.avif) !important;
+    background-size: cover;
+    
+}
+.dhokla{
+    background-image:url(assets/images/dhoklabigbg.avif) !important;
+    background-size: cover;
+
+}
+.basundi{
+    background-image:url(assets/images/basundibggib.webp) !important;
+    background-size: cover;
+
+}
+.rasgulla{
+
+    background-image:url(assets/images/rasgullafinal.jpg) !important;
+    background-size: cover;
+
+}
+.balushahi{
+    background-image:url(assets/images/balushahibigbg.jpg) !important;
+    background-size: cover;
+
+}
+.Motichur{
+
+    background-image:url(assets/images/motichurladdubg.webp) !important;
+    background-size: cover;
+
+}
+.gulab{
+    background-image:url(assets/images/gulabjambg.jpg) !important;
+    background-size: cover;
+}
+.Puran{
+    background-image:url(assets/images/puranpolibg.webp) !important;
+    background-size: cover;
+
+}
+.manchurian{
+    background-image:url(assets/images/manchbg.avif) !important;
+    background-size: cover;
+
+}
+.rice{
+    background-image:url(assets/images/fryricebg.avif) !important;
+    background-size: cover;
+
+}
+.pasta{
+    background-image:url(assets/images/pastabigbg.avif) !important;
+    background-size: cover;
+
+}
+.momos{
+    background-image:url(assets/images/momobg.jpg) !important;
+    background-size: cover;
+}
+.noodles{
+    background-image:url(assets/images/noodlesbg.jpeg) !important;
+    background-size: cover;
+}
+.contact{
+    background-image:url(assets/images/nature.jpg);
+    background-size: cover;
+}
+.vegmain{
+    background-image:url(assets/images/dinner.jpeg);
+     background-size: cover;
+}
+    .main{
+    background-image:url(assets/images/9d70212c6e1b32e0d2ee1ac37274f6d2.jpg);
+    background-size: cover;
+}
+
+.main2{
+    background-image:url(assets/images/pexels-photo-6252744.jpeg);
+    background-size: cover;
+}
+
+.main3{
+    background-image:url(assets/images/bgblack.avif);
+    background-size: cover;
+}
+
+.bharwa{
+    background-image:url(assets/images/bhindi.jpg);
+    background-size: cover;
+
+}
+.shahi{
+    background-image:url(assets/images/pneer.jpg);
+    background-size: cover;
+
+}
+.gobhi{
+    background-image:url(assets/images/gobhi.jpeg);
+    background-size: cover;
+}
+
+.rajma{
+
+    background-image:url(assets/images/rajmabg.webp);
+    background-size: cover;
+}
+.chhole{
+    background-image:url(assets/images/chholebg.jpeg);
+    background-size: cover;
+
+}
+.vangi{
+    background-image:url(assets/images/vangibg.jpeg);
+     background-size: cover;
+}
+.unda{
+    background-image:url(assets/images/undabg.jpg);
+    background-size: cover;
+}
+.mutton{
+    background-image:url(assets/images/muttonbg.jpg);
+    background-size: cover;
+}
+.fish{
+    background-image:url(assets/images/fishbg.avif);
+    background-size: cover;
+}
+.biryani{
+    background-image:url(assets/images/biryanibg.webp);
+    background-size: cover;
+}
+.handi{
+    background-image:url(assets/images/handi.jpg);
+    background-size: cover;
+
+}
+.sambar{
+    background-image:url(assets/images/Sambar-Vadabg.webp);
+    background-size: cover;
+}
+.bhaji{
+    background-image:url(assets/images/paobg.jpeg);
+    background-size: cover;
+
+}
+.appae{
+    background-image:url(assets/images/appebg.avif);
+    background-size: cover;
+}
+
+.idli{
+    background-image:url(assets/images/idlibg.jpg);
+    background-size: cover;
+}
+.dosa{
+    background-image:url(assets/images/dosabg.jpg);
+    background-size: cover;   
+}
+
+.dhokla{
+    background-image:url(assets/images/dhoklabg.jpg);
+    background-size: cover;
+}
+
+.basundi{
+    background-image:url(assets/images/Basundibg.webp);
+    background-size: cover;
+}
+
+.rasgulla{
+    background-image:url(assets/images/rasgulla.webp);
+    background-size: cover;
+}
+
+.balushahi{
+    background-image:url(assets/images/balushahibg.jpg);
+    background-size: cover;
+}
+
+.Motichur{
+    background-image:url(assets/images/motichurbg.jpg);
+    background-size: cover;
+}
+
+.gulab{
+    background-image:url(assets/images/gulabbg.jpg);
+    background-size: cover;
+}
+
+.Puran{
+    background-image:url(assets/images/puranbg.jpeg);
+    background-size: cover;
+}
+
+.manchurian{
+    background-image:url(assets/images/manchurianbg.jpg);
+    background-size: cover;
+}
+.rice{
+    background-image:url(assets/images/ricebg.jpg);
+    background-size: cover;
+}
+
+.pasta{
+    background-image:url(assets/images/pastabg.jpg);
+    background-size: cover;
+}
+
+.momos{
+    background-image:url(assets/images/momosbg.jpg);
+    background-size: cover;
+
+}
+
+.noodles{
+    background-image:url(assets/images/noodles.jpg);
+    background-size: cover;
+}
+
+.contact{
+    background-image:url(assets/images/nature.jpg);
+    background-size: cover;
+}
+
+.vegmain{
+    background-image:url(assets/images/dinner.jpeg);
+    background-size: cover;
+}
+
+.gallery{
+    background-image:url(assets/images/gallery.webp);
+    background-size: cover;
+} 
+
+
+.gallery{
+    background-image:url(assets/images/gallery.webp);
+    background-size: cover;
+}
+}
+
+
+
+
+
+
+
